@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "pwd"
+ln -s /bin/ls __ls__
